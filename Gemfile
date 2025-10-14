@@ -14,7 +14,10 @@ gem "github-pages", group: :jekyll_plugins
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
-# gem "jekyll"
+gem "jekyll", "~> 3.9.4"
+group :jekyll_plugins do
+  gem "jekyll-livereload"
+end
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
@@ -23,5 +26,12 @@ group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
-  gem 'hawkins'
 end
+
+gem "csv", "~> 3.3"
+
+gem "webrick", "~> 1.9"
+
+gem "base64", "~> 0.3.0"
+
+gem "bigdecimal", "~> 3.2"
