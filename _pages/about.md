@@ -27,7 +27,7 @@ My research interests primarily lie in **web security, Java security, and LLM fo
 
 # 📝 Publications 
 
-- `CCS'25` **Be Aware of What You Let Pass: Demystifying URL-based Authentication Bypass Vulnerability in Java Web Applications** [[Full Version]](https://racerz-fighting.github.io/) [[Paper]](https://racerz-fighting.github.io/) [[Code]](https://zenodo.org/records/16990216)  
+- `CCS'25` **Be Aware of What You Let Pass: Demystifying URL-based Authentication Bypass Vulnerability in Java Web Applications** [[Full Version]](/paper/uabscan-ccs25-long.pdf) [[Paper]](/paper/uabscan-ccs25.pdf)) [[Code]](https://zenodo.org/records/16990216)  
   <u>Qiyi Zhang</u><sup>\*</sup>, Fengyu Liu<sup>\*</sup>, Zihan Lin, Yuan Zhang (* co-first authors).  
   In *Proceedings of the 32nd ACM Conference on Computer and Communications Security (CCS)*, October 2025. (<span style="color:#B00C00">CCF-A</span>) 
 
