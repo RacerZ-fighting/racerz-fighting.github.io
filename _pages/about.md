@@ -19,7 +19,7 @@ redirect_from:
 
 Hello! I'm **Qiyi Zhang**, a second-year Ph.D. student in the [System and Software Security Laboratory](https://secsys.fudan.edu.cn/) at Fudan University, advised by Prof. [Yuan Zhang](https://yuanxzhang.github.io/). 
 
-My research interests primarily lie in **web security, Java security, and LLM for security**.
+My research interests primarily lie in **Web security, Java security, and LLM for security**.
 
 
 # 🔥 News
@@ -42,3 +42,8 @@ My research interests primarily lie in **web security, Java security, and LLM fo
 	- 2026: Usenix Security, AsiaCCS
 	- 2025: Usenix Security, CCS, Esoorics
 	- 2024: CCS
+
+# 🏆 Honors & Awards
+
+* 2025 - Fudan University Open Source Pioneer Award [[Reference]](https://mp.weixin.qq.com/s/moCMrL3J0BorroiFH-s-Pw)
+* 2025 - Datagrand Scholarship [[Reference]](https://cs.fudan.edu.cn/72/0c/c24257a750092/page.htm)
