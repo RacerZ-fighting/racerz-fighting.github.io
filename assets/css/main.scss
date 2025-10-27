@@ -107,3 +107,29 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.pdf {
+    background-color: #1891ac;
+    color: white;
+    border-radius: 3px;
+    padding: 1px 4px;
+    font-size: 12px;
+    font-weight: normal;
+    font-family: "Times New Roman", Times, serif;
+    text-decoration: none;
+    display: inline-block;
+    line-height: 1;
+}
+
+.repo {
+    background-color: #ffaa64;
+    color: white;
+    border-radius: 3px;
+    padding: 1px 4px;
+    font-size: 12px;
+    font-weight: normal;
+    font-family: "Times New Roman", Times, serif;
+    text-decoration: none;
+    display: inline-block;
+    line-height: 1;
+}
