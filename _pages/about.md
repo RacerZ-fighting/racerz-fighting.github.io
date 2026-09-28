@@ -55,8 +55,8 @@ Beyond identifying security problems, I am particularly interested in turning re
 - External Reviewer
 	- 2027: Usenix Security
   - 2026: Usenix Security, WWW, AsiaCCS, CODASPY
-	- 2025: Usenix Security, CCS, Esoorics
-	- 2024: CCS
+  - 2025: Usenix Security, CCS, Esoorics
+  - 2024: CCS
 
 # 🏆 Honors & Awards
 
