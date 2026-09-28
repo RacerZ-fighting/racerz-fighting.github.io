@@ -32,11 +32,11 @@ Beyond identifying security problems, I am particularly interested in turning re
 
 # 📝 Publications 
 
-- `IEEE S&P'27` **Babel of Voices: Demystifying Security Threats Arising from Cross-Specification URL Parsing Inconsistencies in Web Applications** [To be appeared]
+- `IEEE S&P'27` **Babel of Voices: Demystifying Security Threats Arising from Cross-Specification URL Parsing Inconsistencies in Web Applications** [To be appeared] 
   <u>Qiyi Zhang</u>, Anmao Gou, Youkun Shi, Fengyu Liu, Yuan Zhang.
-  In *Proceedings of 48th IEEE Symposium on Security and Privacy (S&P)*, May 2027.
+  In *Proceedings of 48th IEEE Symposium on Security and Privacy (S&P)*, May 2027. (<span style="color:#B00C00">CCF-A</span>)
 
-- `JOS'26` **Black-box Detection Method for Broken-access-control Vulnerabilities via LLM-based Semantic Understanding** [<span class="pdf">Paper</span>](https://www.jos.org.cn/jos/article/abstract/7715)
+- `JOS'26` **Black-box Detection Method for Broken-access-control Vulnerabilities via LLM-based Semantic Understanding** [<span class="pdf">Paper</span>](https://www.jos.org.cn/jos/article/abstract/7715) 
   Fengyu Liu, Yuan Zhang, <u>Qiyi Zhang</u>, Tian Chen, Youkun Shi, Min Yang.
   *In Journal of Software*, China, 2026. (<span style="color:#B00C00">CCF-A</span>)
 
