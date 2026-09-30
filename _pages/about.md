@@ -60,6 +60,6 @@ Beyond identifying security problems, I am particularly interested in turning re
 
 # 🏆 Honors & Awards
 
-* 2026 - Open Source Security Reward Program, Second Prize, Cyber Security Association of China (CSAC) [[Reference](/reward/2025-opensource-vuln.pdf)
+* 2026 - Open Source Security Reward Program, Second Prize, Cyber Security Association of China (CSAC) [[Reference]](/reward/2025-opensource-vuln.pdf)
 * 2025 - Open Source Pioneer Award, Fudan University [[Reference]](https://mp.weixin.qq.com/s/moCMrL3J0BorroiFH-s-Pw)
 * 2025 - Datagrand Scholarship, Fudan University [[Reference]](https://cs.fudan.edu.cn/72/0c/c24257a750092/page.htm)
